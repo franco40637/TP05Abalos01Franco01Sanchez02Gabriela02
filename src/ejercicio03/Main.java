@@ -15,6 +15,5 @@ public static void main(String[] args) {
         }
 
         System.out.println("El factorial de " + numero + " es: " + factorial);
-        entrada.close();
     }
 }
